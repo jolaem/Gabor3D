@@ -2,6 +2,8 @@
 
 A small function extending Gabor filter to 3D. Computes a filter bank of 64 Gabor filters (at 4 orientations over a combination of roll x pitch x yaw) plus a Gaussian kernel.
 
+![alt text](https://github.com/jolaem/Gabor3D/blob/master/gabor.png)
+
 ### Requirements
 Python 2.7 or 3.6+
 Python libraries:
