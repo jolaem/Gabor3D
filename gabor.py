@@ -1,7 +1,6 @@
 import math
 import numpy as np
 from mayavi import mlab
-from time import sleep
 
 def rotation(theta) :
      
