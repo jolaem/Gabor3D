@@ -15,7 +15,7 @@ python gabor.py
 ```
 or in code:
 ```
-from gabor import filter_bank_gb3d as gabor3D
+from gabor import filter_bank_gb3d as gabor3d
 
 gabor3d(size=31, plot=True)
 ```
