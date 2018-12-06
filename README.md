@@ -5,10 +5,10 @@ A small function extending Gabor filter to 3D. Computes a filter bank of 64 Gabo
 ![alt text](https://github.com/jolaem/Gabor3D/blob/master/gabor.png)
 
 ### Requirements
-Python 2.7 or 3.6+
-Python libraries:
-Numpy
-Mayavi (optional for plotting -- can be removed in code)
+Python 2.7 or 3.6+ 
+Python libraries: 
+Numpy 
+Mayavi (optional for plotting -- can be removed in code) 
 
 ### Run
 From command line:
@@ -23,11 +23,11 @@ gabor3d(size=31, plot=True)
 ```
 
 ### Default parameters
-filter_bank_gb3D(
-        sigma=4.0,
-        Lambda=10.0,
-        psi=0.3,
-        gamma=0.3,
-        size=31,
-        plot=False)
+filter_bank_gb3D( 
+        sigma=4.0, 
+        Lambda=10.0, 
+        psi=0.3, 
+        gamma=0.3, 
+        size=31, 
+        plot=False) 
 
